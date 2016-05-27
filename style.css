@@ -1,0 +1,27 @@
+h1{
+	text-align: center;
+	background-color: #bada55;
+	color : green ;
+	padding-top: 15px ;
+	padding-bottom: 15px ;
+	border-radius: 6px ;
+}
+canvas{
+	margin-left: 346px ;
+	border: 1px  #bada55 solid ;
+}
+body {
+	background-color:black;
+
+	 }
+
+
+  @media(max-width:640px) {
+    
+        #myCanvas {
+            width: 320px;
+            height: 120px;
+            background-color:grey;
+            margin:0;
+        }
+    }
