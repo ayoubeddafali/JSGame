@@ -2,4 +2,4 @@
 
 A simple game using javascript 
 
-[alt img](https://github.com/ayoubensalem/JSGame/blob/master/demo/anim.gif)
+![alt img](https://github.com/ayoubensalem/JSGame/blob/master/demo/anim.gif)
